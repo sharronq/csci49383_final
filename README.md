@@ -6,6 +6,7 @@
 This project uses SteamVR and the Valve.VR namespace for input from an HTC Vive Pro headset and controllers. Any scripts that get user input (object interaction and player movement) specifically get input from a Vive controller. As I have not tested the project with other VR softwares, I am unsure of how it would function with other softwares.
 
 ## If not running on load:
+Some assets may have been unassigned from components in the project. Below is a list of instructions of where in the project to add assets from the assets folder.
 ## **Assets**
 <details>
     <summary>Audio</summary>
