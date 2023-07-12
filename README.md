@@ -1,1 +1,3 @@
-# csci49383_final
+# Sharron Qian
+## CSCI 49383 Final Project
+
