@@ -1,6 +1,6 @@
 # Virtual Study Room (CSCI 49383 Final Project)
 ## Sharron Qian
-
+[Video demo](https://youtu.be/4tihEIkhnAI)
 
 ## Before you download
 This project uses SteamVR and the Valve.VR namespace for input from an HTC Vive Pro headset and controllers. Any scripts that get user input (object interaction and player movement) specifically get input from a Vive controller. As I have not tested the project with other VR softwares, I am unsure of how it would function with other softwares.
