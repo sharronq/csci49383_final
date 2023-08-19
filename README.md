@@ -1,4 +1,4 @@
-# CSCI 49383 Final Project
+# Virtual Study Room
 ## Sharron Qian
 
 
