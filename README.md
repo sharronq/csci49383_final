@@ -1,5 +1,4 @@
 # Virtual Study Room (CSCI 49383 Final Project)
-## Sharron Qian
 [Video demo](https://youtu.be/4tihEIkhnAI)
 
 ## Before you download
